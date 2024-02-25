@@ -1,0 +1,21 @@
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\bin\Debug\net6.0-windows\Laba 2 wpf.exe
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\bin\Debug\net6.0-windows\Laba 2 wpf.deps.json
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\bin\Debug\net6.0-windows\Laba 2 wpf.runtimeconfig.json
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\bin\Debug\net6.0-windows\Laba 2 wpf.dll
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\bin\Debug\net6.0-windows\Laba 2 wpf.pdb
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.csproj.AssemblyReference.cache
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\App.g.cs
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf_MarkupCompile.cache
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf_MarkupCompile.lref
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\MainWindow.baml
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.g.resources
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.AssemblyInfoInputs.cache
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.AssemblyInfo.cs
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.csproj.CoreCompileInputs.cache
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.dll
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\refint\Laba 2 wpf.dll
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.pdb
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\Laba 2 wpf.genruntimeconfig.cache
+E:\visual studio\Laba 2 wpf\Laba 2 wpf\obj\Debug\net6.0-windows\ref\Laba 2 wpf.dll
